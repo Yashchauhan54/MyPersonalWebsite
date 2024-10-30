@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6de396df.css",
+    "main.js": "./static/js/main.b4c26356.js",
+    "static/js/453.507c9781.chunk.js": "./static/js/453.507c9781.chunk.js",
+    "static/media/bg.jpg": "./static/media/bg.111ddec16d7f7972d03e.jpg",
+    "static/media/pic.jpg": "./static/media/pic.26ea2b41f3d96deae219.jpg",
+    "static/media/grocery.jpg": "./static/media/grocery.7b384d81768f89e1d152.jpg",
+    "static/media/bank.jpg": "./static/media/bank.e30c74657c3479a6ce2e.jpg",
+    "static/media/coffee.jpg": "./static/media/coffee.71682d9720cf82e93142.jpg",
+    "static/media/mypic.jpg": "./static/media/mypic.37a38e90c0470aa717f8.jpg",
+    "static/media/weather.jpg": "./static/media/weather.a3baa8f4ce159ed96111.jpg",
+    "static/media/footer.jpg": "./static/media/footer.39a4f243eb0510908fd4.jpg",
+    "static/media/wordguessgame.jpg": "./static/media/wordguessgame.cf670dd10d5d53b1619b.jpg",
+    "static/media/json.jpg": "./static/media/json.b562c65638091182f427.jpg",
+    "index.html": "./index.html",
+    "main.6de396df.css.map": "./static/css/main.6de396df.css.map",
+    "main.b4c26356.js.map": "./static/js/main.b4c26356.js.map",
+    "453.507c9781.chunk.js.map": "./static/js/453.507c9781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6de396df.css",
+    "static/js/main.b4c26356.js"
+  ]
+}
